@@ -1,0 +1,42 @@
+ggit ad# Project ignore files
+**/node_modules/*
+
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+*.pyc
+._*
+.directory
+
+# OS or Editor specific
+__MACOSX
+.DS_Store
+Thumbs.db
+.cache
+.project
+.settings
+.idea
+.tmproj
+*.esproj
+nbproject
+.Spotlight-V100
+.Trashes
+_notes
+._*
+*.komodoproject
+.komodotools
+.buildpath
+.vagrant
+
+# Version control
+.hg
+.svn
+.CVS
